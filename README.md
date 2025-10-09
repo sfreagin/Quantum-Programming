@@ -11,6 +11,7 @@ This repository serves as a hands-on learning hub for students and researchers e
 We focus on:
 - **Quantum Programming Fundamentals** – Learn about qubits, quantum gates, and circuit design with Qiskit and Cirq.  
 - **Quantum Machine Learning (QML)** – Explore hybrid models, variational algorithms, and quantum data encoding.  
-- **Quantum Cryptography** – Dive into post-quantum security, QKD (Quantum Key Distribution), and quantum-safe encryption.  
+- **Quantum Cryptography** – Dive into post-quantum security, QKD (Quantum Key Distribution), and quantum-safe encryption.
+- **Quantum Algorithms** - Explore quantum advantages in science, finance, and more! 
 - **Tutorials & Educational Resources** – Notebooks and guides
 
